@@ -123,7 +123,7 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/theovilardo/PixelPlayer.git
+   git clone https://github.com/Shreyas850/Pixel-YOU.git
    ```
 
 2. **Open in Android Studio**
