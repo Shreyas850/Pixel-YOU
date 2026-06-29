@@ -196,5 +196,5 @@ This project is licensed under a Proprietary License - see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/theovilardo">theovilardo</a>
+  Made with ❤️ by <a href="https://github.com/Shreyas850">theovilardo</a>
 </p>
