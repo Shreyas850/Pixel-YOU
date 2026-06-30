@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="https://github.com/theovilardo/PixelPlayer/releases/latest">
-        <img src="https://img.shields.io/github/v/release/theovilardo/PixelPlayer?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
+        <img src="https://img.shields.io/github/v/release/Shreyas850/Pixel-YOU?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
     </a>
     <a href="https://github.com/theovilardo/PixelPlayer/releases">
         <img src="https://img.shields.io/github/downloads/theovilardo/PixelPlayer/total?logo=github&style=for-the-badge" alt="Total Downloads">
